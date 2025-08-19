@@ -1,0 +1,6 @@
+[submodule "kitty"]
+	path = kitty
+	url = git@github.com:zovenor/kitty.git
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:zovenor/nvim.git
